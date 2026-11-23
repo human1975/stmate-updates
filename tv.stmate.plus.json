@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "enabled": true,
-  "release_id": "1000005355-3771ac9f07da7fa3de32cc5f5d7e37b9b8e9e0b46b8fe27fd590943093ced8ed",
+  "release_id": "1000005355-b46903df4e34660cc1ec64e811d4e96532470f7b2f66fbced367242c3b609179",
   "package_name": "tv.stmate.plus",
   "latest_version_code": 1000005355,
   "latest_version_name": "5.3.5",
   "apk_url": "https://github.com/human1975/stmate-updates/releases/latest/download/StMate-Plus.apk",
   "apk_url_backup": "https://pub-77150bf562a344c2874cf8e19baa70a6.r2.dev/stmate/StMate-Plus.apk",
-  "apk_url_fallback": "https://stiptv.xyz/stmate/updates/releases/1000005355-3771ac9f07da7fa3de32cc5f5d7e37b9b8e9e0b46b8fe27fd590943093ced8ed.apk",
-  "apk_sha256": "3771ac9f07da7fa3de32cc5f5d7e37b9b8e9e0b46b8fe27fd590943093ced8ed",
+  "apk_url_fallback": "https://stiptv.xyz/stmate/updates/releases/1000005355-b46903df4e34660cc1ec64e811d4e96532470f7b2f66fbced367242c3b609179.apk",
+  "apk_sha256": "b46903df4e34660cc1ec64e811d4e96532470f7b2f66fbced367242c3b609179",
   "apk_size": 54825384,
   "signer_sha256": "e55e19882d2594390385bb832a2b4dd6a589c6f5babaef8fbbdbe0a390f7a427",
   "min_sdk": 23,
-  "release_notes": "StMate 5.3.4 official release with GitHub-first CDN, 3x retry, mandatory unknown-sources onboarding, and instant update notification."
+  "release_notes": "StMate 5.3.6 official release with clean 4K/Plus edition separation, GitHub-first CDN, and 3x3 automatic retry."
 }
