@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "enabled": true,
+  "release_id": "1000005354-45430f56af634f41a5c95f29a2132a39c8f37501380009853e8256d89dbf7725",
+  "package_name": "tv.stmate.plus",
+  "latest_version_code": 1000005354,
+  "latest_version_name": "5.3.4",
+  "apk_url": "https://github.com/human1975/stmate-updates/releases/download/v1000005354/StMate-Plus-1000005354-45430f56af63.apk",
+  "apk_url_backup": "https://stiptv.xyz/stmate/updates/releases/1000005354-45430f56af634f41a5c95f29a2132a39c8f37501380009853e8256d89dbf7725.apk",
+  "apk_url_fallback": "https://github.com/human1975/stmate-updates/releases/download/v1000005354/StMate-Plus-1000005354-45430f56af63.apk",
+  "apk_sha256": "45430f56af634f41a5c95f29a2132a39c8f37501380009853e8256d89dbf7725",
+  "apk_size": 54837672,
+  "signer_sha256": "e55e19882d2594390385bb832a2b4dd6a589c6f5babaef8fbbdbe0a390f7a427",
+  "min_sdk": 23,
+  "release_notes": "StMate 5.3.4 official release with universal HTTPS redirector and multi-origin update resilience."
+}
