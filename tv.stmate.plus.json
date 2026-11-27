@@ -6,11 +6,11 @@
     "min_sdk":  23,
     "apk_url_backup":  "https://pub-77150bf562a344c2874cf8e19baa70a6.r2.dev/stmate/StMate-Plus.apk",
     "latest_version_name":  "5.3.8",
-    "apk_sha256":  "979560ef490c2a57b6e775855ed80bfec9ec2879b5e587e3a19f422762e9291e",
-    "release_id":  "1000005358-979560ef490c2a57b6e775855ed80bfec9ec2879b5e587e3a19f422762e9291e",
+    "apk_sha256":  "af8099e59d26c3da7a0f32edd17db1f39d6b34b21bcaea7c90916c98eb91caee",
+    "release_id":  "1000005358-af8099e59d26c3da7a0f32edd17db1f39d6b34b21bcaea7c90916c98eb91caee",
     "apk_size":  54833576,
     "latest_version_code":  1000005358,
     "enabled":  true,
-    "apk_url_fallback":  "https://stiptv.xyz/stmate/updates/releases/1000005358-979560ef490c2a57b6e775855ed80bfec9ec2879b5e587e3a19f422762e9291e.apk",
+    "apk_url_fallback":  "https://stiptv.xyz/stmate/updates/releases/1000005358-af8099e59d26c3da7a0f32edd17db1f39d6b34b21bcaea7c90916c98eb91caee.apk",
     "signer_sha256":  "e55e19882d2594390385bb832a2b4dd6a589c6f5babaef8fbbdbe0a390f7a427"
 }
