@@ -1,16 +1,16 @@
 {
-    "release_notes":  "StMate 5.3.7: automatic 5-digit Pair Code handoff from STIPTV with manual fallback.",
+    "release_notes":  "StMate Plus 5.3.8: Chinese AOSP TV box support + automatic 5-digit Pair Code handoff.",
     "apk_url":  "https://github.com/human1975/stmate-updates/releases/latest/download/StMate-Plus.apk",
     "package_name":  "tv.stmate.plus",
     "schema":  1,
     "min_sdk":  23,
     "apk_url_backup":  "https://pub-77150bf562a344c2874cf8e19baa70a6.r2.dev/stmate/StMate-Plus.apk",
-    "latest_version_name":  "5.3.7",
-    "apk_sha256":  "9db16853807e74d0afc3198043350126a226e8f0e33ad8c31bc84d4b02297be5",
-    "release_id":  "1000005357-9db16853807e74d0afc3198043350126a226e8f0e33ad8c31bc84d4b02297be5",
-    "apk_size":  54829480,
-    "latest_version_code":  1000005357,
+    "latest_version_name":  "5.3.8",
+    "apk_sha256":  "979560ef490c2a57b6e775855ed80bfec9ec2879b5e587e3a19f422762e9291e",
+    "release_id":  "1000005358-979560ef490c2a57b6e775855ed80bfec9ec2879b5e587e3a19f422762e9291e",
+    "apk_size":  54833576,
+    "latest_version_code":  1000005358,
     "enabled":  true,
-    "apk_url_fallback":  "https://stiptv.xyz/stmate/updates/releases/1000005357-9db16853807e74d0afc3198043350126a226e8f0e33ad8c31bc84d4b02297be5.apk",
+    "apk_url_fallback":  "https://stiptv.xyz/stmate/updates/releases/1000005358-979560ef490c2a57b6e775855ed80bfec9ec2879b5e587e3a19f422762e9291e.apk",
     "signer_sha256":  "e55e19882d2594390385bb832a2b4dd6a589c6f5babaef8fbbdbe0a390f7a427"
 }
